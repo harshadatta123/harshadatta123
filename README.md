@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">I’m passionate about building intelligent AI solutions that solve real-world problems and make technology more efficient and accessible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadatta123&label=Profile%20views&color=0e75b6&style=flat" alt="harshadatta123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshadatta123" alt="harshadatta123" /></a> </p>
-
 - 🔭 I’m currently working on [VIT TIMETABLE CONVERTER](https://dev-vit-timetable-export.streamlit.app/)
 
 - 👯 I’m looking to collaborate on [Star Cut Al](https://github.com/JustTheCoolest/GeminiAPI_Contest_2024.git)
